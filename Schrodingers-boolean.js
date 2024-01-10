@@ -15,7 +15,7 @@ const omniboolean = {
   }
 }
 
-// or
+// or 
 
 class OmniBool{
   constructor(){
